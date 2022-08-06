@@ -1,12 +1,13 @@
 package assignment02;
 import java.util.Random;
 import java.util.Scanner;
-/*there are 6 extra functionalities:
+/*there are 7 extra functionalities:
  1. Mode selection    2.Mode validation
  3.Guesser number validation
  4.Player number validation
  5.Semi-final round is included if tie.
- 6.Results are displayed*/
+ 6.Results are displayed
+ 7. Closure greetings.*/
 
 class Guessor{
 	public int guessorNum;
