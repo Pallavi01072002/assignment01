@@ -7,7 +7,7 @@ import java.util.Scanner;
  4.Player number validation
  5.Semi-final round is included if tie.
  6.Results are displayed
- 7. Closure greetings.*/
+ 7. Closure greetings*/
 
 class Guessor{
 	public int guessorNum;
